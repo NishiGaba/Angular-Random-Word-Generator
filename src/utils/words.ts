@@ -49,5 +49,5 @@ export default [
   'pass',
   'thus',
   'grow',
-  'imagine',
+  'imagine'
 ];
